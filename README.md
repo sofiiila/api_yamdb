@@ -1,5 +1,7 @@
 # YaMDb
 
+[My public Repositories ------------------->](https://github.com/sofiiila/sofiiila/blob/main/content_table.md)
+
 # Проект YaMDb собирает отзывы пользователей на произведения. 
 
 ## Установка приложения
